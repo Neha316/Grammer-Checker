@@ -1,0 +1,92 @@
+A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. 
+
+
+
+Speech-to-text module helps to convert the words spoken by you to text
+To convert speech-to-text, follow the below steps:
+1) Click on mic icon
+2) Now let's speak
+3) Your speech will be converted to text with appropriate corrections or suggestions.
+
+Grammar correction functionality aids in enhancing the quality of the written text by identifying most of the cumbersome mistakes, with a high degree of accuracy and speed
+The grammatical mistakes in the text are highlighted by red colour
+You will be provided with some appropriate suggestions to replace the errors
+Besides this,spelling mistakes can also be identified and corrected here
+Instructions (grammar and spelling correction module):
+1) Grammar correction module is the default module you will find on opening the app, or you can find it in home page
+2) Type your text, the mistakes will be highlighted
+3) Rectify the text by clicking on the appropriate suggestion.  
+                                                                                                                                                                                                                                                                                                                                                                                                                              
+Synonyms are the words which convey the same meaning as that of the given word
+Synonym of a particular word in a sentence can be found by the following steps:
+1) Go to the home page, click on the synonyms button on the top
+2) Type the text and the synonyms will be suggested below
+3) Replace the text by clicking on the appropriate suggestion. 
+
+Translation support is provided for around 109 languages                                                                                                                                                                                                                                                                                                                        
+You can translate the text from one language to another by the following steps:
+1) Go to the translate section
+2) Select a familiar language to write the text
+3) Select the language to which the text should be translated
+4) Click on the translate button
+5) Translated text will be shown in the second half of the screen.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Dictionary module can comprehensively explain the meaning of a given word by explaining the usage of the word in different context
+Besides this, it also enumerates the synonyms and antonyms of the word
+You can also learn the pronunciation by tapping on the volume icon beside the text box
+Instructions to use Dictionary module:
+1) Go to dictionary page, enter the word to get its meaning
+2) Meaning, synonym, antonym of the word are displayed on the screen
+3) Click on the volume icon to get the pronunciation. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+Text-to-speech module aids in reading out the text aloud
+You can find it in the home page by clicking the volume icon
+You can also find that the text-to-speech module is integrated with the dictionary module to read out the word.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+Feedback helps you to communicate with us
+You will be asked to rate us, and a comments section is provided where you can convey your problems or suggestions
+You will be always asked to express your feedback before you exit this app.
+
+OCR or text recognition module enables us to transform the hand-written or printed text into typed format. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+
+
+
+
+
+
+
+Okay!..follow me..I will demonstrate the uses of this app.Select the module you wish to know about:
+Speech-to-text
+Grammar correction 
+Synonyms 
+OCR
+Translate
+Dictionary
+Text-to-speech 
+Feedback.    
+
+Okay!..follow me..I will show you how to use this app.Select the module to get more information:
+Speech-to-text
+Grammar correction 
+Synonyms 
+OCR
+Translate
+Dictionary
+Text-to-speech 
+Feedback.     
+
+Okay!..follow me..let me show you how this app works.Select the module to get more information:
+Speech-to-text
+Grammar correction 
+Synonyms 
+OCR
+Translate
+Dictionary
+Text-to-speech 
+Feedback.    
+
+
+
