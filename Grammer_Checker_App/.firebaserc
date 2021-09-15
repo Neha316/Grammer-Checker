@@ -1,6 +1,0 @@
-{
-  "projects": {
-    "default": "grammar-checker-app",
-    "gramApp": "grammar-checker-ocr"
-  }
-}
